@@ -7,6 +7,7 @@ module.exports = {
 		extend: {
 			fontFamily: {
 				'pathway-gothic-one':['"Pathway Gothic One"'],
+				'grand-hotel':['"Grand Hotel"']
 			},
       width: {
         '128': '32rem',
