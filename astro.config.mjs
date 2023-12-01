@@ -25,20 +25,15 @@ export default defineConfig({
         // Configure the content collections
         collections: [
           {
-            name: 'galleries',
-            label: 'Gallery Posts',
-            label_singular: 'Gallery Post',
+            name: 'pricelist',
+            label: 'Price List',
+            label_singular: 'Item',
             folder: 'src/pages/posts',
             create: true,
             delete: true,
             fields: [
-              { name: 'title', widget: 'string', label: 'Post Title' },
-              { 
-                name: 'thumbnail', 
-                widget: 'image', 
-                choose_url: true, 
-                default: '/upload/logogray.svg',
-              },
+              { name: 'title', widget: 'string', label: 'Item' },
+              { name: 'price', widget: 'string', label: 'Price' },
               { name: 'description', widget: 'string', label: 'Description', required: true },
               { name: 'tag', widget: 'string', label: 'Tag', required: true },
               { name: 'body', widget: 'markdown', label: 'Post Body' },
