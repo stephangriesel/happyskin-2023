@@ -1,0 +1,32 @@
+---
+import Nav from "./Nav.astro";
+import Footer from "./Footer.astro";
+
+export interface Props {
+  title: string;
+  price: string;
+  description: string;
+  tag: string;
+}
+
+const { title, price, description, tag } = Astro.props as Props;
+---
+
+<div>
+  <div class="ml-[auto] mr-[auto] w-full max-w-[65em] pl-[2rem] pr-[2rem]">
+    <Nav />
+  </div>
+  <div
+    class="text-center ml-[auto] mr-[auto] w-full max-w-[65em] pl-[2rem] pr-[2rem]"
+  >
+    <h1
+      class="text-3xl uppercase font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white font-pathway-gothic-one m-5 text-center"
+    >
+      {title} : {price}
+    </h1>
+  </div>
+  <div class="ml-[auto] mr-[auto] w-full max-w-[65em] pl-[2rem] pr-[2rem]">
+    <!-- pricelist -->
+  </div>
+  <Footer />
+</div>
