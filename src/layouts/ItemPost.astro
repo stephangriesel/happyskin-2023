@@ -1,0 +1,23 @@
+---
+import Head from "../components/Head.astro";
+import Header from "../components/Header.astro";
+import Post from "../components/ItemPost.astro";
+
+const { content } = Astro.props;
+const { title, description, permalink, tag } = content;
+---
+
+<html lang={content.lang || "en"}>
+  <head>
+    <Head {title} {description} {permalink} />
+  </head>
+
+  <body>
+    <!-- <Header /> -->
+    <div class="wrapper">
+      <Post {title} {description} {tag}>
+        <slot />
+      </Post>
+    </div>
+  </body>
+</html>
