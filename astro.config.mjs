@@ -40,9 +40,9 @@ export default defineConfig({
               {
                 name: 'layout',
                 widget: 'select',
-                default: '../../layouts/GalleryPost.astro',
+                default: '../../layouts/ItemPost.astro',
                 options: [
-                  { label: 'Gallery Post', value: '../../layouts/GalleryPost.astro' },
+                  { label: 'Item post', value: '../../layouts/ItemPost.astro' },
                 ],
               },
             ],
