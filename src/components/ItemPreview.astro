@@ -6,11 +6,11 @@ export interface Props {
 const { post } = Astro.props;
 ---
 
-<div
-  class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 m-2 text-center animation"
->
-  <div>{post.frontmatter.title}</div>
-  <div>{post.frontmatter.price}</div>
+<div class="flex w-full">
+  <div class="w-1/2 font-bold text-left">
+    {post.frontmatter.title}
+  </div>
+  <div class="w-1/2 text-right">{post.frontmatter.price}</div>
 </div>
 
 <style>
