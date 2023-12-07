@@ -34,9 +34,6 @@ export default defineConfig({
             fields: [
               { name: 'title', widget: 'string', label: 'Item' },
               { name: 'price', widget: 'string', label: 'Price' },
-              { name: 'description', widget: 'string', label: 'Description', required: true },
-              { name: 'tag', widget: 'string', label: 'Tag', required: true },
-              { name: 'body', widget: 'markdown', label: 'Post Body' },
               {
                 name: 'layout',
                 widget: 'select',
