@@ -1,6 +1,6 @@
 ---
-title: Test
-price: "1.20"
+title: Back & neck massage
+price: "260.00"
 description: Test
 tag: Test
 layout: ../../layouts/ItemPost.astro
