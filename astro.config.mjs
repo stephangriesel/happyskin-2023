@@ -31,6 +31,7 @@ export default defineConfig({
             folder: 'src/pages/posts',
             create: true,
             delete: true,
+            sortable_fields: ['commit_date', 'title', 'language.en'],
             fields: [
               { name: 'title', widget: 'string', label: 'Item' },
               { name: 'price', widget: 'string', label: 'Price' },
