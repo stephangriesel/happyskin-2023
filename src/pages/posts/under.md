@@ -1,5 +1,5 @@
 ---
-title: Three quarter leg wax
-price: "210.00"
+title: Under
+price: "1.20"
 layout: ../../layouts/ItemPost.astro
 ---

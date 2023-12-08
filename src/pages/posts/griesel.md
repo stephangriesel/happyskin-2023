@@ -1,5 +1,5 @@
 ---
-title: Arm wax
-price: "140.00"
+title: Gunit
+price: "1.90"
 layout: ../../layouts/ItemPost.astro
 ---
