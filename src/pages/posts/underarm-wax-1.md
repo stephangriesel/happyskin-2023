@@ -1,5 +1,5 @@
 ---
-title: Z last
-price: "1.20"
+title: Underarm wax
+price: "90"
 layout: ../../layouts/ItemPost.astro
 ---

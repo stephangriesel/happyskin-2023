@@ -1,5 +1,5 @@
 ---
-title: Gunit
-price: "1.90"
+title: Brazilian wax
+price: "220"
 layout: ../../layouts/ItemPost.astro
 ---

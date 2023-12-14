@@ -1,5 +1,5 @@
 ---
-title: Above
-price: "1.20"
+title: Gel overlay
+price: "250"
 layout: ../../layouts/ItemPost.astro
 ---
