@@ -1,5 +1,5 @@
 ---
 title: Chin wax
-price: "75"
+price: "85"
 layout: ../../layouts/ItemPost.astro
 ---
