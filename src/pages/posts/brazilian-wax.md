@@ -1,5 +1,5 @@
 ---
 title: Brazilian wax
-price: "220"
+price: "240"
 layout: ../../layouts/ItemPost.astro
 ---
