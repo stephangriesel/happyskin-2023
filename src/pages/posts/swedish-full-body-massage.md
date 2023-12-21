@@ -1,5 +1,5 @@
 ---
 title: Swedish full body massage
-price: "400"
+price: "470"
 layout: ../../layouts/ItemPost.astro
 ---
