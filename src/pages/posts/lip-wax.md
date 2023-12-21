@@ -1,5 +1,5 @@
 ---
 title: Lip wax
-price: "55"
+price: "65"
 layout: ../../layouts/ItemPost.astro
 ---
