@@ -1,5 +1,5 @@
 ---
 title: Full leg wax
-price: "260"
+price: "290"
 layout: ../../layouts/ItemPost.astro
 ---
