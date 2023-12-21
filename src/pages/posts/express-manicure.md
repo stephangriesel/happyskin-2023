@@ -1,5 +1,5 @@
 ---
 title: Express manicure
-price: "150"
+price: "180"
 layout: ../../layouts/ItemPost.astro
 ---
