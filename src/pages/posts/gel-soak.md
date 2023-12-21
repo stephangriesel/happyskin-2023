@@ -1,5 +1,5 @@
 ---
 title: Gel soak
-price: "75"
+price: "80"
 layout: ../../layouts/ItemPost.astro
 ---
