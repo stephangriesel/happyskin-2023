@@ -1,5 +1,5 @@
 ---
 title: Classic facial
-price: "380"
+price: "420"
 layout: ../../layouts/ItemPost.astro
 ---
