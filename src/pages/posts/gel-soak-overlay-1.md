@@ -1,5 +1,5 @@
 ---
 title: Gel soak & overlay
-price: "310"
+price: "320"
 layout: ../../layouts/ItemPost.astro
 ---
