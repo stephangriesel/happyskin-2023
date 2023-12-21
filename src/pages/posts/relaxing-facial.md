@@ -1,5 +1,5 @@
 ---
 title: Relaxing facial
-price: "310"
+price: "350"
 layout: ../../layouts/ItemPost.astro
 ---
