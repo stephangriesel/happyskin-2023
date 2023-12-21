@@ -1,5 +1,5 @@
 ---
 title: Facial peel
-price: "420"
+price: "500"
 layout: ../../layouts/ItemPost.astro
 ---
