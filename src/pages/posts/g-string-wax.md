@@ -1,5 +1,5 @@
 ---
 title: G-string wax
-price: "190"
+price: "210"
 layout: ../../layouts/ItemPost.astro
 ---
