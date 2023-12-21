@@ -1,5 +1,5 @@
 ---
 title: Mini facial
-price: "270"
+price: "300"
 layout: ../../layouts/ItemPost.astro
 ---
