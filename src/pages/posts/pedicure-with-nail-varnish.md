@@ -1,5 +1,5 @@
 ---
 title: Re-varnish
-price: "75"
+price: "80"
 layout: ../../layouts/ItemPost.astro
 ---
