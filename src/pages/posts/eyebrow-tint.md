@@ -1,5 +1,5 @@
 ---
 title: Eyebrow tint
-price: "60"
+price: "75"
 layout: ../../layouts/ItemPost.astro
 ---
