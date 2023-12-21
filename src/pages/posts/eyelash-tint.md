@@ -1,5 +1,5 @@
 ---
 title: Eyelash tint
-price: "80"
+price: "90"
 layout: ../../layouts/ItemPost.astro
 ---
