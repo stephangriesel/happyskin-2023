@@ -1,5 +1,5 @@
 ---
 title: Half arm wax
-price: "110"
+price: "140"
 layout: ../../layouts/ItemPost.astro
 ---
