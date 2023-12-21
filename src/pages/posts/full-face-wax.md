@@ -1,5 +1,5 @@
 ---
 title: Full face wax
-price: "180"
+price: "210"
 layout: ../../layouts/ItemPost.astro
 ---
